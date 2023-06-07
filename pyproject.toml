@@ -10,6 +10,7 @@ packages = [{include = "organisation_label_automation"}]
 python = "^3.12"
 python-dotenv = "^1.0.0"
 requests = "^2.31.0"
+httpx = "^0.24.1"
 
 
 [build-system]
