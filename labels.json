@@ -1,0 +1,32 @@
+[
+    {
+      "name": "spike",
+      "description": "A time-boxed investigation",
+      "color": "17653E"
+    },
+    {
+      "name": "not ready",
+      "description": "Doesn't meet the definition of ready",
+      "color": "Db7717"
+    },
+    {
+      "name": "retro",
+      "description": "Item to discuss in Retro",
+      "color": "9F15A8"
+    },
+    {
+      "name": "tech debt",
+      "description": "Technical debt",
+      "color": "000000"
+    },
+    {
+      "name": "ui",
+      "description": "UI",
+      "color": "5319E7"
+    },
+    {
+      "name": "backend",
+      "description": "Backend",
+      "color": "FBCA04"
+    }
+   ]

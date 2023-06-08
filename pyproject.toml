@@ -1,16 +1,15 @@
 [tool.poetry]
-name = "organisation-label-automation"
+name = "github-utils"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
-packages = [{include = "organisation_label_automation"}]
+packages = [{include = "github_utils"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
-python-dotenv = "^1.0.0"
-requests = "^2.31.0"
 httpx = "^0.24.1"
+pydantic = "^1.10.9"
 
 
 [build-system]
